@@ -90,10 +90,9 @@ section .card-body {
     color: #fff;
 }
 
-#icone {
+#icon {
     float: right;
     padding-top: 100px;
-    ;
 }
 
 /******************************* icône modal button***********************/
@@ -124,10 +123,10 @@ section .card-body {
     float: right;
     font-size: 28px;
     font-weight: bold;
-  }
+}
   
-  .close:hover,
-  .close:focus {
+.close:hover,
+.close:focus {
     color: #000;
     text-decoration: none;
     cursor: pointer;

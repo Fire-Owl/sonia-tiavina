@@ -1,31 +1,33 @@
-    <footer id="footer">
-        <div class="container mt-5 pt-5">
-            <div class="row ">
+        <footer id="footer">
+            <div class="container mt-5 pt-5">
 
-                <div class="mentions col-6 col-md-4">
-                    <p>Licence</p>
-                    <a href="mentions.php">Mentions légales</a>
-                </div>
-                
-                <div id="contact" class="col-6 col-md-4">
-                    <div class="contact-info bottom">
-                        <p>Contacts</p>
-                        <address>
-                            E-mail:<br>
-                            <a href="t.ralandison@codeur.online">t.ralandison@codeur.online</a><br>
-                            <a href="s.rolland@codeur.online">s.rolland@codeur.online</a> 
-                        </address>
+                <div class="row">
+
+                    <div class="mentions col-6 col-md-4">
+                        <p>Licence</p>
+                        <a href="mentions.php">Mentions légales</a>
                     </div>
-                </div>
-
-                <div class="row ">
                     
-                    <div id="icone col-3-md">
+                    <div id="contact" class="col-6 col-md-4">
+
+                        <div class="contact-info bottom">
+                            <p>Contacts</p>
+                            <address>
+                                E-mail:<br>
+                                <a href="t.ralandison@codeur.online">t.ralandison@codeur.online</a><br>
+                                <a href="s.rolland@codeur.online">s.rolland@codeur.online</a> 
+                            </address>
+                        </div>
+                    </div>
+
+                    <div id="social" class="col-md-4">                    
+                        <div id="icone col-3-md">
                         <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="img-beeweb\github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
                         
                     </div>
 
-                    <div class="row icon">
+                    <div class="icon">
+
                         <a id="button"><img src="img-beeweb\linkedin.png"></a>
 
                         <div id="modal" class="modal">
@@ -40,16 +42,16 @@
                             </div>
 
                         </div>
-                    </div>
+                        
+                    </div></div>
 
                 </div>
-
+                
             </div>
-        </div>
 
-    </footer>
+        </footer>
 
-    <script type="text/javascript" src="main.js"></script>
+        <script type="text/javascript" src="main.js"></script>
 
-</body>
+    </body>
 </html>

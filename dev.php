@@ -31,7 +31,7 @@
                     <p>Le développeur Back End est chargé de tout ce qui touche le serveur, ce qui est invisible donc pour l'utilisateur. Comment une site fonctionne extactement?
                     il se spécialise de la partie administrative de l'application web, du contenu interne du système et des technologies de serveur telles que l'architecture , la base de données, la logique logicielle.<br>
                     il doit se mettre à jours dans la connaissance des technos , frameworks web populaires en programmant ses lignes de code correcte .
-                    Un programmeur doit être capable de concevoir des bases de données et à optimiser les requêtes et connaître les paradigmes de programmation modernes ..</p>
+                    Un programmeur doit être capable de concevoir des bases de données et à optimiser les requêtes et connaître les paradigmes de programmation modernes .</p>
                     <h2>Dévéloppeur full-stack</h2>
                     <p>Un développeur web "full-stack" est celui qui va réaliser à la fois le front-end et le back-end d'un site web ou d'une application, ce qui fait du développement web "full-stack" l'une des spécialisations les plus demandées dans le domaine des technologies de programmation.<br>
                     En effet, les développeurs full stack sont essentiellement polyvalents et qui touchent à tout, car ils passent constamment du codage frontal au codage dorsal.</p>
