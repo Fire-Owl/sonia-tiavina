@@ -2,7 +2,7 @@
 
     <section id="home" class="container">
         <div class="row g-0">
-            <div class="mt-5 padd-right col-sm-4 col-md-6">
+            <div id="txt-responsive" class="mt-5 padd-right col-sm-4 col-md-6">
                 <h1>LES MÉTIERS DU WEB</h1>
                 <div class="txt-justify mt-5">
                     <p>Les métiers du web se trouvent  au cœur de tous les secteurs d’activités , elles tiennent  un grand rôle pour la visibilité d'une enseigne ou entreprise .</p>
