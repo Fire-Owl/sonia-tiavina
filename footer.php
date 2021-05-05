@@ -22,11 +22,11 @@
 
                     <div id="social" class="col-md-4">                    
                         <div id="icone col-3-md">
-                        <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="img-beeweb\github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
+                            <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="img-beeweb\github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
                         
                     </div>
 
-                    <div class="icon">
+                    <div id="linkedin" class="col-md-4">
 
                         <a id="button"><img src="img-beeweb\linkedin.png"></a>
 

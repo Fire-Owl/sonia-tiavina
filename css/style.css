@@ -1,39 +1,3 @@
-/***********************
-***** MEDIA QUERIES ****
-***********************/
-
-/****** Laptop - 1024px ****/
-@media screen and (max-width: 1024px) {
-    #home div img {
-        max-width: 160%;
-        margin-top: 1rem;
-    } 
-}
-
-/****** Tablet - 768px ****/
-@media screen and (max-width: 768px) {
-    #home div img {
-        max-width: 178%;
-        margin-top: 9rem;
-    } 
-}
-
-/****** Mobile L - 425px ****/
-@media screen and (max-width: 425px) {
-    #home div img {
-        max-width: 170%;
-        margin-top: 9rem;
-    } 
-}
-
-/****** Mobile M - 425px ****/
-@media screen and (max-width: 425px) {
-    #home #txt-responsive {
-      display: contents;
-    } 
-}
-
-
 /*************************
 *******Header******
 **************************/
@@ -42,9 +6,10 @@ header .head-nav {
 } 
 
 
+
 /*************************
 *******Body******
-*************************/
+**************************/
 body {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -125,9 +90,13 @@ section .card-body {
     color: #fff;
 }
 
-#icon {
+/* #icon {
     float: right;
     padding-top: 100px;
+} */
+
+#social {
+    margin-block-end: 20px;
 }
 
 /******************************* icône modal button***********************/
